@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeriodosAtraz.ConsoleApp", "PeriodosAtraz.ConsoleApp\PeriodosAtraz.ConsoleApp.csproj", "{EC99703C-9839-4BF7-B680-60616DD026FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC99703C-9839-4BF7-B680-60616DD026FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC99703C-9839-4BF7-B680-60616DD026FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC99703C-9839-4BF7-B680-60616DD026FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC99703C-9839-4BF7-B680-60616DD026FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48B96EC-DE44-447C-8214-64B3F8A3F1C2}
+	EndGlobalSection
+EndGlobal
